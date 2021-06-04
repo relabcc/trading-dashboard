@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/trading-dashboard/static/js/main.72cc2c16.chunk.js",
-    "main.js.map": "/trading-dashboard/static/js/main.72cc2c16.chunk.js.map",
+    "main.js": "/trading-dashboard/static/js/main.44810961.chunk.js",
+    "main.js.map": "/trading-dashboard/static/js/main.44810961.chunk.js.map",
     "runtime-main.js": "/trading-dashboard/static/js/runtime-main.2dc8a8cf.js",
     "runtime-main.js.map": "/trading-dashboard/static/js/runtime-main.2dc8a8cf.js.map",
-    "static/js/2.7396c7a5.chunk.js": "/trading-dashboard/static/js/2.7396c7a5.chunk.js",
-    "static/js/2.7396c7a5.chunk.js.map": "/trading-dashboard/static/js/2.7396c7a5.chunk.js.map",
+    "static/js/2.6568a8ac.chunk.js": "/trading-dashboard/static/js/2.6568a8ac.chunk.js",
+    "static/js/2.6568a8ac.chunk.js.map": "/trading-dashboard/static/js/2.6568a8ac.chunk.js.map",
     "index.html": "/trading-dashboard/index.html",
-    "static/js/2.7396c7a5.chunk.js.LICENSE.txt": "/trading-dashboard/static/js/2.7396c7a5.chunk.js.LICENSE.txt",
-    "static/js/main.72cc2c16.chunk.js.LICENSE.txt": "/trading-dashboard/static/js/main.72cc2c16.chunk.js.LICENSE.txt",
+    "static/js/2.6568a8ac.chunk.js.LICENSE.txt": "/trading-dashboard/static/js/2.6568a8ac.chunk.js.LICENSE.txt",
+    "static/js/main.44810961.chunk.js.LICENSE.txt": "/trading-dashboard/static/js/main.44810961.chunk.js.LICENSE.txt",
     "static/media/countries.37c9b0c6.tsv": "/trading-dashboard/static/media/countries.37c9b0c6.tsv"
   },
   "entrypoints": [
     "static/js/runtime-main.2dc8a8cf.js",
-    "static/js/2.7396c7a5.chunk.js",
-    "static/js/main.72cc2c16.chunk.js"
+    "static/js/2.6568a8ac.chunk.js",
+    "static/js/main.44810961.chunk.js"
   ]
 }
